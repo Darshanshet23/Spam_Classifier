@@ -50,11 +50,11 @@ The dataset (`spam.csv`) contains labeled email messages with two categories:
    ```
 
 2. **Run the Flask app:**
-```
+    ```
     python app.py
-```
+    ```
 
 3. **Open browser and go to:**
-```
+    ```
     http://localhost:5000
-```
+    ```
