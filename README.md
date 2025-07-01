@@ -58,3 +58,6 @@ The dataset (`spam.csv`) contains labeled email messages with two categories:
     ```
     http://localhost:5000
     ```
+## 🌐 Live Demo
+
+🚀 Check out the live app here: [Email Spam Classifier](https://spamclassifiergit-xdrj4kwuwfz8x5ekbcvrck.streamlit.app/)
